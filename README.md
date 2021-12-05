@@ -24,3 +24,7 @@ En 1874, Elisha Gray invente le télégraphe musical. Il est constitué de deux 
 
 ![premier synthétiseur](medias/synthetiseur_premier.jpeg)
 > Le premier synthétiseur commercialisé (1964)
+
+### Les contrôleurs
+Un clavier peut être utilisé mais un séquenceur, un contrôleur à ruban tactile, ou grâce à des capteurs détectant la position de la main. 
+
