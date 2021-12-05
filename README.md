@@ -7,7 +7,14 @@ En 1711, l'écrivain italien Scipione Maffei publie la première version du pian
 > Piano-forte de Bartolomeo Cristofori (1720)
 
 ### Le clavier
-Il est composé de 88 touches. Les 52 touches blanches représentent la gamme diatonique(Do-ré-mi-fa-sol-la-si-do) de do majeur et les 36 touches noires aux cinq notes nécessaires pour finir la gamme chromatique.
+Il est composé de 88 touches. Les 52 touches blanches représentent la gamme diatonique(Do-ré-mi-fa-sol-la-si-do) de do majeur et les 36 touches noires aux cinq notes nécessaires pour finir la gamme chromatique. Généralement, le clavier contient 7 octaves et quart. 
 
 ![piano ancien](medias/gamme_chromatique.png)
 > Gamme chromatique
+
+### Le mécanisme
+le marteau est propulsé avec une pièce en forme d'équerre (le bâton d'échappement) qui bascule en arrière lorsque sa partie horizontale atteint le bouton d'échappement. Ainsi le marteau est libre de repartir en arrière dès qu'il a touché la corde, qui peut alors vibrer sans être étouffée.
+
+> Mécanisme d'un piano à queue
+
+### Utilisation
