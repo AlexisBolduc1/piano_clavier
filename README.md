@@ -32,11 +32,17 @@ Un clavier peut être utilisé mais un séquenceur, un contrôleur à ruban tac
 > Un séquenceur
 
 ![contrôleur à ruban tactile](medias/controleur.png)
-> un contrôleur à ruban tactile
+> Un contrôleur à ruban tactile
 
 Le clavier est utilisé majoritairement lorsque le synthétiseur est sous forme physique. Certains peuvent avoir l'ajout d'un clavier compatible à l'interface MIDI ou CV/Gate. Avec le clavier, le synthétiseur propose un ensemble de potentiomètres (un type de résistance variable à trois bornes) et de faders (permet de contrôler les périphériques externes) pour le réglage du son.
 
 ### Le fonctionnement
 Le son créé de manière analogique grâce à des circuits électroniques à comportement continu, de manière numérique à l'aide de circuits numériques ou à l'aide de ces deux technologies. En 1995, les microprocesseurs ont permis d'ouvrir une nouvelle voie. La synthèse sonore sur des ordinateurs personnels. L'une des méthodes consiste à reproduire les structures de synthèse d'origine en créant numériquement les circuits analogiques pour créer ou modifier des sons musicaux. 
 
+### Les synthèses
+Les plus courants, les synthèses analogiques soustractive et additive. Elles se basent sur des ondes simples. 
+(Une onde sonore correspond à la propagation de perturbations mécaniques dans un milieu élastique.)
+La synthèse additive combine différentes ondes sinusoïdales. (type d'ondes)
 
+![ondes sinusoïdales](medias/onde_sinu.jpeg)
+> Ondes sinusoïdales
