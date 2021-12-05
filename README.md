@@ -89,7 +89,25 @@ Le clavier permet de générer une séquence de notes MIDI. Un clavier semblable
 ### Le fonctionnement
 Le fonctionnement est basé sur les messages *notes-on* et *note-off* pour faire fonctionner les notes. Une vélocité est associée aux notes pour ajuster le volume. Les notes de l'échelle chromatique sont représentées par un nombre entier codé sur 7 bits ce qui permet de coder plus de 10 octaves avec une résolution d'un demi-ton. La hauteur des notes intermédiaires sont atteintes par le *pitch-bend*. 
 
-## Les logiciels
+## Reproduire sur un logiciel
 
 ![logiciel Garageband](medias/logiciel.png)
 > Logiciel Garageband
+
+## Les logiciels
+On peut brancher un clavier MIDI à un synthétiseur mais se n'est pas la meilleure des options.
+Les logiciels de musique sont nombreux.
+Le plus abordable reste audacity qui est gratuit pour tout le monde mais objectivement pas le meilleur des logiciels. 
+
+![logo d'Audacity](medias/audacity.png)
+> Audacity
+
+Par la suite, Garageband est gratuit pour toutes personnes possèdant un Mac, donc déjà mieux que audacity pour la simplicité et le prix est le même. 
+
+![logo de Garageband](medias/garageband.png)
+> Garageband
+
+Finalement, le meilleur logiciel reste logic pro X développé par Apple, il est complet et possède toute les fonctionnalités nécessaires mais n'est pas du tout abordable. Il coûte 279,99$.  
+
+![logo de Logic Pro X](medias/logic.png)
+> Logic Pro X
