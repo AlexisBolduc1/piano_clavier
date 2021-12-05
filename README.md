@@ -8,3 +8,6 @@ En 1711, l'écrivain italien Scipione Maffei publie la première version du pian
 
 ### Le clavier
 Il est composé de 88 touches. Les 52 touches blanches représentent la gamme diatonique(Do-ré-mi-fa-sol-la-si-do) de do majeur et les 36 touches noires aux cinq notes nécessaires pour finir la gamme chromatique.
+
+![piano ancien](medias/gamme_chromatique.png)
+> Gamme chromatique
