@@ -66,3 +66,12 @@ Les LFO, permettent de moduler le son de manière périodique comme pour avoir u
 
 ![architecture typique d'un synthétiseur modulaire](medias/architecture.png)
 > Architecture typique d'un synthétiseur modulaire 
+
+## Le clavier MIDI (Musical Instrument Digital Interface)
+### L'histoire
+Avec l'arrivée des synthétiseurs numériques, la connexion de plusieurs synthétiseurs au même clavier devient un enjeu important. Les concepteurs de synthétiseurs Dave Smith (Sequential Circuits), Ikutarō Kakehashi (Roland), et Tom Oberheim (Oberheim) se rencontrent lors du NAMM de juin 1981 pour trouver une solution à ce problème.
+
+![synthétiseurs Dave Smith](medias/synthe_dave.jpeg)
+> Un synthétiseur Dave Smith
+
+### Le clavier
