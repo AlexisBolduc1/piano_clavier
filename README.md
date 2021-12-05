@@ -1,5 +1,8 @@
 # Du piano au clavier midi
 ## Le piano
+
+![piano](medias/piano.jpeg)
+
 ### L'histoire
 En 1711, l'écrivain italien Scipione Maffei publie la première version du piano incluant son mécanisme (gravecembalo col piano e forte) qu'il a observé 2 ans avant. Les premiers exemplaires connus ont été fabriqués par Bartolomeo Cristofori à Florence.
 
@@ -19,6 +22,9 @@ le marteau est propulsé avec une pièce en forme d'équerre (le bâton d'écha
 > Mécanisme d'un piano à queue
 
 ## Le synthétiseur
+
+![synthétiseur](medias/synthe.jpeg)
+
 ### L'histoire
 En 1874, Elisha Gray invente le télégraphe musical. Il est constitué de deux octaves et utilise à travers des électro-aimants les vibrations de lamelles métalliques. La diffusion est assurée par le réseau téléphonique. La première version du synthétiseur.
 
@@ -68,6 +74,9 @@ Les LFO, permettent de moduler le son de manière périodique comme pour avoir u
 > Architecture typique d'un synthétiseur modulaire 
 
 ## Le clavier MIDI (Musical Instrument Digital Interface)
+
+![clavier MIDI](medias/midi.jpg)
+
 ### L'histoire
 Avec l'arrivée des synthétiseurs numériques, la connexion de plusieurs synthétiseurs au même clavier devient un enjeu important. Les concepteurs de synthétiseurs Dave Smith (Sequential Circuits), Ikutarō Kakehashi (Roland), et Tom Oberheim (Oberheim) se rencontrent lors du NAMM de juin 1981 pour trouver une solution à ce problème.
 
