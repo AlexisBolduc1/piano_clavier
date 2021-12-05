@@ -28,3 +28,10 @@ En 1874, Elisha Gray invente le télégraphe musical. Il est constitué de deux 
 ### Les contrôleurs
 Un clavier peut être utilisé mais un séquenceur, un contrôleur à ruban tactile, ou grâce à des capteurs détectant la position de la main. 
 
+![séquenceur](medias/sequenceur.jpeg)
+> Un séquenceur
+
+![contrôleur à ruban tactile](medias/controleur.png)
+> un contrôleur à ruban tactile
+
+Le clavier est utilisé majoritairement lorsque le synthétiseur est sous forme physique. Certains peuvent avoir l'ajout d'un clavier compatible à l'interface MIDI ou CV/Gate. Avec le clavier, le synthétiseur propose un ensemble de potentiomètres (un type de résistance variable à trois bornes) et de faders (permet de contrôler les périphériques externes) pour le réglage du son.
