@@ -84,3 +84,7 @@ Avec l'arrivée des synthétiseurs numériques, la connexion de plusieurs synth�
 > Un synthétiseur Dave Smith
 
 ### Le clavier
+Le clavier permet de générer une séquence de notes MIDI. Un clavier semblable à celui d'un piano mais largement plus petit. Il n'émet doncpas de sons toutseul mais grâce à un logiciel ou même un synthétiseur. Différentes caractéristiques sont présents: le nombre d'octaves, un toucher lourd qui s'approche de celui du piano, choisir les fonctions de vélocité et de sensibilité de pression ou diviser les commandes MIDI à travers différents canaux. Deux molette sont souvent présentes, une pour jouer sur le *pitch* (hauteur) et l'autre pour jouer avec la *modulation* (son).
+
+### Le fonctionnement
+Le fonctionnement est basé sur les messages *notes-on* et *note-off* pour faire fonctionner les notes. Une vélocité est associée aux notes pour ajuster le volume. Les notes de l'échelle chromatique sont représentées par un nombre entier codé sur 7 bits ce qui permet de coder plus de 10 octaves avec une résolution d'un demi-ton. La hauteur des notes intermédiaires sont atteintes par le *pitch-bend*. 
