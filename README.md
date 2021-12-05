@@ -113,6 +113,8 @@ Finalement, le meilleur logiciel reste logic pro X développé par Apple, il est
 > Logic Pro X
 
 ### Reproduire
-Le processus pour utiliser un clavier MIDI sur un logiciel n'est vraiment pas complexe. Tout d'abord, il faut le brancher à l'ordinateur avec le logiciel ouvert. Le clavier se configure automatiquement avec le logiciel et si cela ne se fait pas il faut aller dans les paramètres de périphérique et configurer le clavier. Par la suite, vous pouvez tout simplement utiliser les instruments du logiciel ou aller sur Internet télécharger des instruments pour vos compositions. Faire attention, sur le clavier vous devez vous mêmes jouer les notes mais il est possible de les arranger directement dans le logiciel.
+Le processus pour utiliser un clavier MIDI sur un logiciel n'est vraiment pas complexe. Tout d'abord, il faut le brancher à l'ordinateur avec le logiciel ouvert. Le clavier se configure automatiquement avec le logiciel et si cela ne se fait pas il faut aller dans les paramètres de périphérique et configurer le clavier. Par la suite, vous pouvez tout simplement utiliser les instruments du logiciel ou aller sur Internet télécharger des instruments pour vos compositions. 
+
+**Faire attention, sur le clavier vous devez vous mêmes jouer les notes mais il est possible de les arranger directement dans le logiciel.**
 
 ![Arrangement](medias/arrangement.jpeg)
