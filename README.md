@@ -46,3 +46,23 @@ La synthèse additive combine différentes ondes sinusoïdales. (type d'ondes)
 
 ![ondes sinusoïdales](medias/onde_sinu.jpeg)
 > Ondes sinusoïdales
+
+Les synthèses soustractives utilise des signaux riches en harmoniques, et nécessite des filtres pour ajuster le ton.
+
+### Les modules
+Des modules connectés électroniquement entre-eux génèrent des sons par des circuits électroniques. Les plus récent utilise des processeurs avec l'architecture analogique. 
+
+Les VCO, oscillateurs (la fonction est de produire un signal électrique périodique) qui créent les sons de base avec une tonalité qui dépend de la méthode de synthèse.(ensemble de techniques permettant la génération de signaux sonores)
+
+Les VCF, filtres pour transformer le son en filtrant certaines fréquences.
+
+Les VCA, amplificateur permettant de varier le volume.
+
+Certains composants permettent de moduler les modules.
+Les générateurs d'enveloppes permettent de moduler le son au début et à la fin d'une note.
+
+Les LFO, permettent de moduler le son de manière périodique comme pour avoir un *vibrato* ou un *tremolo*.
+(transmettre un signal par la modulation de la fréquence d'un signal porteur)
+
+![architecture typique d'un synthétiseur modulaire](medias/architecture.png)
+> Architecture typique d'un synthétiseur modulaire 
