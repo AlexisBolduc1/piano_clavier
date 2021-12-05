@@ -94,7 +94,7 @@ Le fonctionnement est basé sur les messages *notes-on* et *note-off* pour faire
 ![logiciel Garageband](medias/logiciel.png)
 > Logiciel Garageband
 
-## Les logiciels
+### Les logiciels
 On peut brancher un clavier MIDI à un synthétiseur mais se n'est pas la meilleure des options.
 Les logiciels de musique sont nombreux.
 Le plus abordable reste audacity qui est gratuit pour tout le monde mais objectivement pas le meilleur des logiciels. 
@@ -111,3 +111,8 @@ Finalement, le meilleur logiciel reste logic pro X développé par Apple, il est
 
 ![logo de Logic Pro X](medias/logic.png)
 > Logic Pro X
+
+### Reproduire
+Le processus pour utiliser un clavier MIDI sur un logiciel n'est vraiment pas complexe. Tout d'abord, il faut le brancher à l'ordinateur avec le logiciel ouvert. Le clavier se configure automatiquement avec le logiciel et si cela ne se fait pas il faut aller dans les paramètres de périphérique et configurer le clavier. Par la suite, vous pouvez tout simplement utiliser les instruments du logiciel ou aller sur Internet télécharger des instruments pour vos compositions. Faire attention, sur le clavier vous devez vous mêmes jouer les notes mais il est possible de les arranger directement dans le logiciel.
+
+![Arrangement](medias/arrangement.jpeg)
