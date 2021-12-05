@@ -88,3 +88,8 @@ Le clavier permet de générer une séquence de notes MIDI. Un clavier semblable
 
 ### Le fonctionnement
 Le fonctionnement est basé sur les messages *notes-on* et *note-off* pour faire fonctionner les notes. Une vélocité est associée aux notes pour ajuster le volume. Les notes de l'échelle chromatique sont représentées par un nombre entier codé sur 7 bits ce qui permet de coder plus de 10 octaves avec une résolution d'un demi-ton. La hauteur des notes intermédiaires sont atteintes par le *pitch-bend*. 
+
+## Les logiciels
+
+![logiciel Garageband](medias/logiciel.png)
+> Logiciel Garageband
