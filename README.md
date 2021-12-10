@@ -118,3 +118,10 @@ Le processus pour utiliser un clavier MIDI sur un logiciel n'est vraiment pas co
 **Faire attention, sur le clavier vous devez vous mêmes jouer les notes mais il est possible de les arranger directement dans le logiciel.**
 
 ![Arrangement](medias/arrangement.jpeg)
+
+#### Sources
+https://fr.yamaha.com/fr/products/contents/musical_instrument_guide/piano/structure/index.html
+https://www.pianoweb.fr/histoire-du-synthetiseur.php
+https://artsandculture.google.com/story/NAWhuXju46u1pg?hl=fr
+https://support.apple.com/fr-ca/guide/mainstage/lgsife418e65/mac
+https://arsonor.com/principes-de-fonctionnement-dun-synthetiseur-1-les-modules/#:~:text=Le%20principe%20est%20de%20g%C3%A9n%C3%A9rer,le%20terme%20de%20synth%C3%A8se%20soustractive.
