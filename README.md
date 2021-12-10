@@ -121,10 +121,17 @@ Le processus pour utiliser un clavier MIDI sur un logiciel n'est vraiment pas co
 
 #### Sources
 https://fr.yamaha.com/fr/products/contents/musical_instrument_guide/piano/structure/index.html
+
 https://www.pianoweb.fr/histoire-du-synthetiseur.php
+
 https://artsandculture.google.com/story/NAWhuXju46u1pg?hl=fr
+
 https://support.apple.com/fr-ca/guide/mainstage/lgsife418e65/mac
+
 https://arsonor.com/principes-de-fonctionnement-dun-synthetiseur-1-les-modules/#:~:text=Le%20principe%20est%20de%20g%C3%A9n%C3%A9rer,le%20terme%20de%20synth%C3%A8se%20soustractive.
+
 https://blog.landr.com/fr/quest-ce-que-le-midi%E2%80%AF-guide-pour-debutant-sur-loutil-le-plus-puissant-de-la-musique/
+
 https://blog.allegromusique.fr/histoire-piano-travers-epoques
+
 https://www.guitariste.com/guides/guide-midi,5722,1.html
